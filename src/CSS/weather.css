@@ -1,0 +1,38 @@
+.main{
+
+        
+        padding:40px;
+        background-color:brown;
+        border-radius: 20px;
+        margin-top: 10px;
+        
+        box-shadow: 0px 0px 30px 2px white;
+
+}
+
+.world{
+
+    font-size: 50px;
+    margin-bottom: 40px;
+    color:brown;
+}
+
+
+input{
+
+    padding:20px;
+    width:80%;
+    outline: none;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+button{
+    padding:20px;
+    border: none;
+    color:green;
+    font-size: 20px;
+    
+}
